@@ -1,0 +1,89 @@
+
+
+
+@font-face {
+
+font-family: amatic;
+src: url(../Fonts/amatic/AmaticSC-Regular.ttf);
+
+}
+
+
+body{
+	background-color: pink;
+	background-image: url("../Images/Bimg_2.JPG");
+	background-size: cover;
+	
+
+
+}
+
+<img src
+
+
+.floatright{
+
+	float:right;
+}
+
+.floatleft{
+
+	float: left;
+
+}
+
+.clearIt {
+
+	clear both;
+
+}
+
+.transparent_textbox {
+	background: rgba(255,255,255,.5);
+
+	margin: 25%;
+	padding: 3%;
+	margin-top: 5%;
+
+
+}
+
+
+p{
+
+	font-family: amatic;
+
+
+}
+h2{
+	font-family : amatic;
+	color : black;
+	font-size: 1.5em;
+}
+
+h3{
+	font-family : amatic;
+	color : black;
+	font-size: 1.5em;
+}
+
+p{
+	font-family : amatic;
+	color : black;
+	font-size: 1.5em;
+
+}
+
+.mylinks{
+
+	color: green;
+}
+
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: amatic;
+
+	font-size: 3em;
+}
